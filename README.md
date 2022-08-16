@@ -1,4 +1,4 @@
 # Event-checklist
-Em produção 🏃🏼‍♀️
 
-# init expo start
+
+init expo start
